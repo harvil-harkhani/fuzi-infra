@@ -49,6 +49,14 @@ This files contents are outlined below.
 .c2{
   display:none;
 }
+.dd a{
+  color: #f6b60b;
+}
+.title marquee {
+  margin-top: 1%;
+  margin-bottom: 1%;
+  color: #f6b60b;
+}
 /* Button */
 .button_all {
   font: 700 18px/59px "Roboto", sans-serif;
